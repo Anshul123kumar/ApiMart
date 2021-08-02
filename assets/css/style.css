@@ -208,3 +208,14 @@ h2 {
 #map {
     height: 542px;
 }
+.footer{
+    margin:0px;
+    background-color:blue;
+    padding:10px;
+  }
+  #connect{
+    background-color:darkgrey;
+    padding:50px;
+    margin-bottom: 0px;
+    color:white;
+  }
